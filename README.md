@@ -7,7 +7,7 @@ Target: VS.010.000
 ---
 ## Revisions
 
-| Revison Date             | Document Version           | Tracking Notes | Approved By |
+| **Revison Date**             | **Document Version**           | **Tracking Notes** | **Approved By** |
 |--------------------------|----------------------------|----------------|-------------|
 |                          |                            |                |             | 
 |                          |                            |                |             |
@@ -42,7 +42,33 @@ Target: VS.010.000
 ## Provide an online form for data entry and file upload
 ### Online Form
 This is used to collect the student’s information and softcopy requirements for thesis submission and binding.
-- **INPUT**: The student shall fill in the online form with their name, student number, email address, course code, thesis     title, and number of copies.
+#### Input
+The student shall fill in the online form with their name, student number, email address, course code, thesis     title, and number of copies.
+#### Process
+- The user shall initiate the data entry process.
+- The system shall provide fields for the user to enter their name, student number, email address, course code, and thesis title.
+- The student shall upload two e-copy or softcopy of the manuscript, one in PDF and one in Word format.
+- The student shall upload one file of 2-by-2 ID picture in JPG or JPEG format.
+- The student shall choose an appointment date from the available dates.
+- The user shall submit the form after entering the required information.
+#### Output
+The online form is submitted and the data and files are stored in the database.
+
+## Validate the data and files entered by the student
+### Online Form
+This is used to collect the student’s information and softcopy requirements for thesis submission and binding.
+#### Input
+The student shall fill in the online form with their name, student number, email address, course code, thesis     title, and number of copies.
+#### Process
+- The user shall initiate the data entry process.
+- The system shall provide fields for the user to enter their name, student number, email address, course code, and thesis title.
+- The student shall upload two e-copy or softcopy of the manuscript, one in PDF and one in Word format.
+- The student shall upload one file of 2-by-2 ID picture in JPG or JPEG format.
+- The student shall choose an appointment date from the available dates.
+- The user shall submit the form after entering the required information.
+#### Output
+The online form is submitted and the data and files are stored in the database.
+
 
 ---
 ## Data Dictionary
