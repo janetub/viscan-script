@@ -1,4 +1,4 @@
-## Provide an online form for data entry and file upload
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Provide an online form for data entry and file upload 
 
 ### Online Form
 This is used to collect the student’s information and softcopy requirements for thesis submission and binding.
@@ -16,7 +16,7 @@ The online form is submitted and the data and files are stored in the database.
 
 ---
 
-## Validate the data and files entered by the student
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Validate the data and files entered by the student
 
 ### Data and File Validation
 This is used to ensure that the student enters valid and complete data and uploads files that are in the correct format and size.
@@ -31,7 +31,7 @@ The data and files are validated and the student is informed of the result.
 
 ---
 
-## Display an error or confirmation message upon form submission
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Display an error or confirmation message upon form submission
 
 ### Error Message Display
 This is used to inform the student if there are any errors in their submission
@@ -53,7 +53,7 @@ The confirmation message is displayed.
 
 ---
 
-## Generate a unique priority number for each order
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Generate a unique priority number for each order
 
 ### Priority Number Generation
 This is used to assign a unique priority number to each student or order based on the date and time of form submission.
@@ -68,7 +68,7 @@ The priority number is generated and the student is notified by email.
 
 ---
 
-## Store the order data and files in the database
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Store the order data and files in the database
 
 ### Order Data and File Storage
 This is used to store the order data and files in the database for future reference and processing.
@@ -81,7 +81,7 @@ The order data and files are stored in the database.
 
 ---
 
-## Send an email to the student with their priority number and appointment details
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Send an email to the student with their priority number and appointment details
 
 ### Appointment Email Notification
 This is used to notify the student about their priority number and appointment details via email.
@@ -94,7 +94,7 @@ The appointment details are sent to the student via email.
 
 ---
 
-## Display the current priority number being served on a screen
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Display the current priority number being served on a screen
 
 ### Priority Number Display
 This is used to show the current priority number being served on a screen in the library.
@@ -108,7 +108,7 @@ The library staff either presses the ‘next’ button or moves on to the next p
 
 ---
 
-##  Access the order details by priority number
+##  [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Access the order details by priority number
 
 ###  Order Details Access
 This is used to allow the library staff to access the order details by priority number.
@@ -123,7 +123,7 @@ The order details are accessed and displayed by priority number.
 
 ---
 
-## Mark the order as checked or rejected and provide feedback or comments
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Mark the order as checked or rejected and provide feedback or comments
 
 ### Order Status Update
 This feature is used to manage the status of library orders and provide necessary feedback after checking and verification of binding order requirements completeness and validity.
@@ -140,7 +140,7 @@ The order status is updated and any feedback is recorded in the system.
 
 ---
 
-## Generate and print an acknowledgement receipt for each order
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Generate and print an acknowledgement receipt for each order
 
 ### Acknowledgement Receipt Generation
 This is used to generate and print an acknowledgement receipt for each order after the library staff has checked and validated the materials.
@@ -160,7 +160,7 @@ The library staff shall update the status of the order to “Reviewed” in the 
 The acknowledgement receipt is generated and printed.
 
 ---
-## Update the payment status in the database
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Update the payment status in the database
 
 ### Update Payment Status
 This is used to mark an order as paid and generate a binding order receipt.
@@ -176,7 +176,7 @@ The payment status of the order is updated and a binding order receipt can be ge
 
 ---
 
-## Generate a printable binding order receipt for each order
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Generate a printable binding order receipt for each order
 
 ### Binding Order Receipt Generation
 This is used to generate and print a binding order receipt for each order after the billing staff has updated the payment status in the database.
@@ -193,7 +193,7 @@ The binding order receipt is generated and printed.
 
 ---
 
-## Confirm that the order is complete and ready for claiming
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Confirm that the order is complete and ready for claiming
 
 ### Order Completion
 This is used to mark an order as complete and notify the student via email.
@@ -208,7 +208,7 @@ The order is marked as complete and the student is notified via email.
 
 ---
 
-##  Send an email to the student notifying them that their order is ready for pickup
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Send an email to the student notifying them that their order is ready for pickup
 
 ### Email Notification
 This is used to send an email to the student with the order details and instructions on how to claim their bound thesis.
@@ -222,7 +222,7 @@ The email is sent to the student and the order is ready for claiming.
 
 ---
 
-## Update the order status in the database as completed
+## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Update the order status in the database as completed
 
 ### Order Claiming Status Update
 This is used to mark an order as completed and ready for claiming by the student.
