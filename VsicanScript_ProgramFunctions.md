@@ -1,6 +1,3 @@
-#Program Functions
-
-
 ## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Provide an online form for data entry and file upload 
 
 ### Online Form
