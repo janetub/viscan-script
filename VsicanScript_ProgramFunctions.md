@@ -225,7 +225,7 @@ The email is sent to the student and the order is ready for claiming.
 
 ---
 
-## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Update the order status in the database as completed
+## Update the order status in the database as completed
 
 ### Order Claiming Status Update
 This is used to mark an order as completed and ready for claiming by the student.
