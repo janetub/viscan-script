@@ -1,4 +1,4 @@
-# Program Function and Features
+## Program Function and Features
 
 | **Functional Name**                                       | **Functional Requirement Description**                                                             |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -18,4 +18,6 @@
 | Confirm that the order is complete and ready for claiming | The system shall allow the library staff to confirm that the order is complete and ready for claiming by the student.                                       |
 | Send an email to the student notifying them that their order is ready for pickup | The system shall use Nodemailer to send an email to the student notifying them that their order is ready for pickup, along with the date and time of claiming. |
 | Update the order status in the database as completed    | The system shall allow the library staff to update the order status in the database as completed.                                                          |
+
+Back to [Navigation](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md)
 
