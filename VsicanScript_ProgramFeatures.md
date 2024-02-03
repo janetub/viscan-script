@@ -1,4 +1,4 @@
-# Program Functions
+# Program Features
 Back to [Navigation](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md)
 
 ---
