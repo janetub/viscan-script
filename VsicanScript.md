@@ -8,7 +8,7 @@ Target: VS.010.000
 
 ## Navigation
 
-- [Revisions]()
+- [Revisions](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/ViscanScript_Revisions.md)
 - [Program Features](#program-features)
 - [Program Functions](#program-functions)
 
