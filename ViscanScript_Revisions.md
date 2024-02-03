@@ -9,4 +9,4 @@
 |                          |                            |                |             |
 |                          |                            |                |             |
 
-Back to [Navigation](#navigation)
+Back to [Navigation](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/ViscanScript.md)
