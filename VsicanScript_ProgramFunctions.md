@@ -1,5 +1,5 @@
 # Program Functions
-Back to [Navigation](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript_ProgramFunctions.md)
+Back to [Navigation](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md)
 
 ---
 
