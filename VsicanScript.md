@@ -10,6 +10,6 @@ Target: VS.010.000
 
 - [Revisions](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/ViscanScript_Revisions.md)
 - [Program Features](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/ViscanScript_ProgramFeatures.md)
-- [Program Functions](#program-functions)
+- [Program Functions](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript_ProgramFunctions.md)
 
 ---
