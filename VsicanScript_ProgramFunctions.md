@@ -1,4 +1,7 @@
-## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md) Provide an online form for data entry and file upload 
+#Program Functions
+
+
+## [<](#Program Functions) Provide an online form for data entry and file upload 
 
 ### Online Form
 This is used to collect the student’s information and softcopy requirements for thesis submission and binding.
