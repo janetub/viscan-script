@@ -1,4 +1,4 @@
-## Program Function and Features
+## Program Functional Descriptions
 
 | **Functional Name**                                       | **Functional Requirement Description**                                                             |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------------|
