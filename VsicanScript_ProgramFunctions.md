@@ -1,5 +1,5 @@
 # Program Functions
-- [Update the order status in the database as completed](#update-the-order-status-in-the-database-as-completed)
+- [Update the order status in the database as completed](##update-the-order-status-in-the-database-as-completed)
 
 ## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript_ProgramFunctions.md) Provide an online form for data entry and file upload 
 
