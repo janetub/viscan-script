@@ -241,5 +241,7 @@ The library staff shall select an order from the list of orders.
 The order status is updated as “Completed” and the student is notified.
 
 ---
+
 Back to [Navigation](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript.md)
+
 ---
