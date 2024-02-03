@@ -1,3 +1,6 @@
+# Program Functions
+- [Provide an online form for data entry and file upload](#provide-an-online-form-for-data-entry-and-file-upload)
+
 ## [<](https://github.com/janetub/VSU-Library-Queueing-System/blob/main/VsicanScript_ProgramFunctions.md) Provide an online form for data entry and file upload 
 
 ### Online Form
