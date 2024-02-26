@@ -6,4 +6,4 @@
 |---------- |------- |---------------------------------------- |----------- |---------------------------- |
 |---------- |------- |---------------------------------------- |----------- |---------------------------- |
 
-Back to [Navigation](https://github.com/janetub/ViscanScript/blob/main/Design%20Specification/ViscanScript.md)
+Back to [Navigation](https://github.com/janetub/viscan-script/blob/main/ViscanScript.md)
