@@ -12,3 +12,4 @@ Target: VS.010.000
 - [Program Functions](https://github.com/janetub/viscan-script/blob/main/Design%20Specification/ViscanScript_ProgramFunctions.md)
 - [Program Features](https://github.com/janetub/viscan-script/blob/main/Design%20Specification/ViscanScript_ProgramFeatures.md)
 - [Program Interface](https://github.com/janetub/viscan-script/blob/main/Design%20Specification/ViscanScript_Interface.md)
+- [Program Logo](https://github.com/janetub/viscan-script/blob/main/InterfaceImages/viscansript-logo.png)
